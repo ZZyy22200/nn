@@ -1,5 +1,11 @@
 opencv-python
 numpy
-
 matplotlib
 opencv-contrib-python
+imageio
+
+
+mkdocs
+mkdocs-material
+pymdown-extensions
+python-markdown-math
